@@ -8,36 +8,30 @@ body {
     background-color: #d9dcd6;
 }
 
-/* complete */
  a {
     color: #ffffff;
     text-decoration: none;
 }
-    
-/* complete */
+
 p {
     font-size: 16px;
 }
 
-/* complete */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* complete */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* complete */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* complete */
 h4 {
     font-size: 20px;
 }
@@ -57,14 +51,11 @@ header div {
     font-size: 20px;
 }
 
-/* complete */
 .header-links ul li {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
 }
-
-
 
 .content {
     width: 75%;
@@ -72,7 +63,6 @@ header div {
     margin-left: 20px;
 }
 
-/* complete */
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -82,7 +72,6 @@ header div {
     color: #ffffff;
 }
 
-/* complete */
 .content img {
     max-height: 200px;
 }
@@ -100,14 +89,12 @@ header div {
     color: #ffffff;
 }
 
-/* complete */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* complete */
 footer {
     padding: 30px;
     clear: both;
@@ -124,13 +111,11 @@ footer {
     background-position: center;
 }
 
-/* complete */
 #float-left {
     float: left;
     margin-right: 25px;
 }
 
-/* complete */
 #float-right {
     float: right;
     margin-left: 25px;
